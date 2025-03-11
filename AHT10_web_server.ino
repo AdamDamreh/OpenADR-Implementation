@@ -4,8 +4,8 @@
 #include <WebServer.h>
 
 // 🛜 WiFi Credentials
-const char *ssid = "SpectrumSetup-955D";
-const char *password = "minutenature378";
+const char *ssid = "WIFI Username";
+const char *password = "WIFI PASS";
 
 // 🌐 Web Server (Port 80)
 WebServer server(80);
